@@ -1,0 +1,33 @@
+/* Assuming you have defined these styles somewhere */
+.container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;  
+    background-color: beige;
+    transition: all 100ms;
+    cursor: pointer;
+  }
+  
+  .container:hover{
+    transform: translate(.4rem, -.4rem) rotate(-2deg);
+  }
+  
+  .id {
+    font-weight: bold;
+    color: #333;
+    text-align: right;
+  }
+  
+  .username {
+    font-size: 1.5em;
+    margin: 10px 0;
+    font-style: italic;
+  }
+  
+  .email, .phone {
+    color: #555;
+    font-style: italic;
+  }
+  
+  /* Add more specific styles or adjust as needed */

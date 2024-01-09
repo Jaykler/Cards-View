@@ -17,12 +17,14 @@ This is a React simple Users-Card page. Im using NextJs to model some users' car
 
 Hi there🙋🏽‍♀️, just passing by to post some a User-Card-View.
 
+### Link
+- Live Site URL: [https://jaykler.github.io/Cards-View/](https://jaykler.github.io/Cards-View/)
+
 ### Screenshot
 This is a view of how it looks
-![WhatsApp Image 2024-01-05 at 18 46 43_867311d7](https://github.com/Jaykler/Users-Card/assets/113323895/537749fc-3dff-4978-ac02-b67d011b8155)
 
-### Link
-- Live Site URL: [https://jaykler.github.io/Product-Card-Review/](https://jaykler.github.io/Product-Card-Review/)
+![image](https://github.com/Jaykler/Cards-View/assets/113323895/435bf731-e661-4b2a-a562-e0cb59a2a3b3)
+
 
 ## My process
 

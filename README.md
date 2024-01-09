@@ -58,7 +58,7 @@ Below: part of the code that still gives me headaches:
 ```
 
 ### Useful resources
-1- For basic info about Next.js [](https://nextjs.org/docs).
+1- For basic info about Next.js [https://nextjs.org/docs](https://nextjs.org/docs).
 2- For Api [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 
 ## Author

@@ -4,6 +4,7 @@ This is a React simple Users-Card page. Im using NextJs to model some users' car
 ## Table of contents 
 
 - [Welcome](#welcome)
+  - [Link](#Link)
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,8 +21,7 @@ Hi there🙋🏽‍♀️, just passing by to post some a User-Card-View.
 ### Link
 - Live Site URL: [https://jaykler.github.io/Cards-View/](https://jaykler.github.io/Cards-View/)
 
-### Screenshot
-This is a view of how it looks
+### P
 
 ![image](https://github.com/Jaykler/Cards-View/assets/113323895/435bf731-e661-4b2a-a562-e0cb59a2a3b3)
 

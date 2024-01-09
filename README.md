@@ -36,10 +36,10 @@ Hi there🙋🏽‍♀️, just passing by to post some a User-Card-View.
 ### What I learned
 
 Things I kinda learned about Nextjs/React:
-1- React uses components (Functions/Methods to me) which returns basically what is going to be displayed as frontend. 
-2- For stilization libraries such as **Boostrap** or **Tailwind** to have css added. 
-3- The manipulation of **useState** and **eseEffect** are very important to provide good calls to your web app. -(I'm still trying to understand it 😒)
-4- When using Nextjs you need to have **"use client"** at the top of your page to avoid certain errors. 
+1. React uses components (Functions/Methods to me) which returns basically what is going to be displayed as frontend. 
+2. For stilization libraries such as **Boostrap** or **Tailwind** to have css added. 
+3. The manipulation of **useState** and **eseEffect** are very important to provide good calls to your web app. -(I'm still trying to understand it 😒)
+4. When using Nextjs you need to have **"use client"** at the top of your page to avoid certain errors. 
 
 Below: part of the code that still gives me headaches:
 
@@ -58,8 +58,8 @@ Below: part of the code that still gives me headaches:
 ```
 
 ### Useful resources
-* For basic info about Next.js [https://nextjs.org/docs](https://nextjs.org/docs).
-* For Api [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+1. For basic info about Next.js [https://nextjs.org/docs](https://nextjs.org/docs).
+2. For Api [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 
 ## Author
 
